@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- | 20221031T23:14:52Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/EuropeanMaster/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 1 | 0| 
+- | 20221031T23:14:52Z | et3nol t | 1 | 0| 
 
 <!---
 ProfD1203/ProfD1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
